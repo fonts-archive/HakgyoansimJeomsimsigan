@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'Hakgyoansim Jeomsimsigan';
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+    src: url('https://cdn.jsdelivr.net/gh/fonts-archive/HakgyoansimJeomsimsigan/HakgyoansimJeomsimsigan-Bold.woff2') format('woff2'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/HakgyoansimJeomsimsigan/HakgyoansimJeomsimsigan-Bold.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/HakgyoansimJeomsimsigan/HakgyoansimJeomsimsigan-Bold.otf') format('opentype'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/HakgyoansimJeomsimsigan/HakgyoansimJeomsimsigan-Bold.ttf') format('truetype');
+}
