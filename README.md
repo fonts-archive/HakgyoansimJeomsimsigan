@@ -33,13 +33,13 @@ font-family: 'Hakgyoansim Jeomsimsigan';
 ```
 @font-face {
     font-family: 'Hakgyoansim Jeomsimsigan';
-    font-weight: normal;
+    font-weight: 700;
     font-style: normal;
     font-display: swap;
-    src: url('https://cdn.jsdelivr.net/gh/fonts-archive/HakgyoansimJeomsimsigan/HakgyoansimJeomsimsigan.woff2') format('woff2'),
-         url('https://cdn.jsdelivr.net/gh/fonts-archive/HakgyoansimJeomsimsigan/HakgyoansimJeomsimsigan.woff') format('woff'),
-         url('https://cdn.jsdelivr.net/gh/fonts-archive/HakgyoansimJeomsimsigan/HakgyoansimJeomsimsigan.otf') format('opentype'),
-         url('https://cdn.jsdelivr.net/gh/fonts-archive/HakgyoansimJeomsimsigan/HakgyoansimJeomsimsigan.ttf') format('truetype');
+    src: url('https://cdn.jsdelivr.net/gh/fonts-archive/HakgyoansimJeomsimsigan/HakgyoansimJeomsimsigan-Bold.woff2') format('woff2'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/HakgyoansimJeomsimsigan/HakgyoansimJeomsimsigan-Bold.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/HakgyoansimJeomsimsigan/HakgyoansimJeomsimsigan-Bold.otf') format('opentype'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/HakgyoansimJeomsimsigan/HakgyoansimJeomsimsigan-Bold.ttf') format('truetype');
 }
 ```
 
